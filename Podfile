@@ -17,5 +17,6 @@ target 'ExamenAlanSantiago' do
   end
 
 pod 'Alamofire'
+pod 'Disk'
 
 end

@@ -1,16 +1,20 @@
 PODS:
   - Alamofire (5.0.2)
+  - Disk (0.6.4)
 
 DEPENDENCIES:
   - Alamofire
+  - Disk
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - Disk
 
 SPEC CHECKSUMS:
   Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  Disk: dcee5c2e98fb72f9a924cde8da8435b08244a80e
 
-PODFILE CHECKSUM: 96693a53bce81ed68800db545842300f57df3016
+PODFILE CHECKSUM: 488b5918567e8adc9fd7e7c6ff33334352bc8562
 
 COCOAPODS: 1.9.0
